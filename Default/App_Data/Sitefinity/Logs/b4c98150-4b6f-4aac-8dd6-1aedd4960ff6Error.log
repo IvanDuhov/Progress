@@ -1,0 +1,104 @@
+----------------------------------------
+ActivityId: 00000000-0000-0000-0000-000000000000
+
+Timestamp: 26.5.2021 г. 19:34:40
+
+Message: HandlingInstanceID: 795fef48-4673-4ec2-9f4c-2dc44e241da8
+An exception of type 'Telerik.OpenAccess.OpenAccessException' occurred and was caught.
+--------------------------------------------------------------------------------------
+05/26/2021 22:34:40
+Type : Telerik.OpenAccess.OpenAccessException, Telerik.OpenAccess, Version=2020.0.428.1, Culture=neutral, PublicKeyToken=7ce17eeaf1d59342
+Message : The query does not accept parameters, but valid params were passed for query execution.
+Source : Telerik.Sitefinity
+Help link : 
+InnerExceptions : 
+FailedObject : 
+BackendError : 
+Reason : Internal
+CanRetry : False
+Data : System.Collections.ListDictionaryInternal
+TargetSite : Telerik.Sitefinity.Data.IManager GetManager(System.Type, System.String)
+HResult : -2146233088
+Stack Trace :    at Telerik.Sitefinity.Data.ManagerBase.GetManager(Type managerType, String providerName)
+   at Telerik.Sitefinity.Modules.GenericContent.ContentModuleBase.GetContractsInternal()
+   at Telerik.Sitefinity.Modules.GenericContent.ContentModuleBase.Telerik.Sitefinity.Web.Services.Contracts.ITypeSettingsProvider.GetTypeSettings()
+   at Telerik.Sitefinity.Web.Services.Contracts.TypeSettingsProviderRepo.GetContractsInternal()
+   at Telerik.Sitefinity.Utilities.ConcurrentProperty`1.get_Value()
+   at Telerik.Sitefinity.Web.Api.Configuration.ServiceElement.TryInitializeDefaultTypes(ConfigElement element)
+   at Telerik.Sitefinity.Configuration.ConfigElementCollection.EnsureDelayedInitialization()
+   at Telerik.Sitefinity.Configuration.ConfigElement.GetRawValue(ConfigProperty prop, PersistedValueWrapper& valueWrapper, Boolean skipDefaultValue)
+   at Telerik.Sitefinity.Configuration.ConfigElement.get_Item(ConfigProperty prop)
+   at Telerik.Sitefinity.Configuration.ConfigElement.get_Item(String propertyName)
+   at Telerik.Sitefinity.Web.Api.Configuration.ServiceElement.get_Types()
+   at Telerik.Sitefinity.Web.Api.Configuration.ServiceElement.Telerik.Sitefinity.Web.Api.OData.Model.Proxies.IServiceConfiguration.get_Types()
+   at Telerik.Sitefinity.Web.Api.OData.Model.Proxies.ServiceProxy..ctor(IServiceConfiguration copyFrom)
+   at Telerik.Sitefinity.Web.Api.OData.Routing.CompositeRoute.GetRoute(String routePrefix, IServiceConfiguration service)
+   at Telerik.Sitefinity.Web.Api.OData.Routing.CompositeRoute.GetRouteDataInternal(String virtualPathRoot, HttpRequestMessage request)
+   at Telerik.Sitefinity.Web.Api.OData.Routing.CompositeRoute.GetRouteData(String virtualPathRoot, HttpRequestMessage request)
+
+Additional Info:
+
+MachineName : DESKTOP-2V705S3
+TimeStamp : 26.5.2021 г. 19:34:40
+FullName : Telerik.Sitefinity.Utilities, Version=13.3.7600.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+AppDomainName : /LM/W3SVC/1/ROOT-11-132665312402020181
+ThreadIdentity : Anonymous
+WindowsIdentity : DESKTOP-2V705S3\Ivan
+Requested URL : http://localhost:28790/
+
+
+Category: ErrorLog
+
+Priority: 0
+
+EventId: 90000
+
+Severity: Error
+
+Title:Enterprise Library Exception Handling
+
+Machine: DESKTOP-2V705S3
+
+App Domain: /LM/W3SVC/1/ROOT-11-132665312402020181
+
+ProcessId: 10016
+
+Process Name: C:\Program Files (x86)\IIS Express\IISExpress.exe
+
+Thread Name: BackgroundTasksService-Thread-1
+
+Win32 ThreadId:18800
+
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+ActivityId: 6077a5d8-428a-4d89-bd49-34294e6514b2
+
+Timestamp: 5/26/2021 7:35:09 PM
+
+Message: IdentityServer signing certificate is not configured. System will be using default IdentityServer certificate
+
+Category: ErrorLog
+
+Priority: -1
+
+EventId: 1
+
+Severity: Information
+
+Title:
+
+Machine: DESKTOP-2V705S3
+
+App Domain: /LM/W3SVC/1/ROOT-11-132665312402020181
+
+ProcessId: 10016
+
+Process Name: C:\Program Files (x86)\IIS Express\IISExpress.exe
+
+Thread Name: 
+
+Win32 ThreadId:3108
+
+Extended Properties: 
+----------------------------------------

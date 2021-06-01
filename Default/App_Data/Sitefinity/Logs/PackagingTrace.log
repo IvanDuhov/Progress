@@ -1,0 +1,413 @@
+----------------------------------------
+Timestamp: 5/31/2021 5:03:46 PM
+
+Message: Exporting Blogs structure
+
+
+----------------------------------------
+----------------------------------------
+Timestamp: 5/31/2021 5:03:48 PM
+
+Message: Exported Blogs structure
+
+
+----------------------------------------
+----------------------------------------
+Timestamp: 5/31/2021 5:03:48 PM
+
+Message: Exporting Classifications structure
+
+
+----------------------------------------
+----------------------------------------
+Timestamp: 5/31/2021 5:03:48 PM
+
+Message: Exported Classifications structure
+
+
+----------------------------------------
+----------------------------------------
+Timestamp: 5/31/2021 5:03:48 PM
+
+Message: Exporting Success Story structure
+
+
+----------------------------------------
+----------------------------------------
+Timestamp: 5/31/2021 5:03:49 PM
+
+Message: Exported Success Story structure
+
+
+----------------------------------------
+----------------------------------------
+Timestamp: 5/31/2021 5:03:49 PM
+
+Message: Exporting Events structure
+
+
+----------------------------------------
+----------------------------------------
+Timestamp: 5/31/2021 5:03:52 PM
+
+Message: Exported Events structure
+
+
+----------------------------------------
+----------------------------------------
+Timestamp: 5/31/2021 5:03:52 PM
+
+Message: Exporting Libraries structure
+
+
+----------------------------------------
+----------------------------------------
+Timestamp: 5/31/2021 5:03:55 PM
+
+Message: Exported Libraries structure
+
+
+----------------------------------------
+----------------------------------------
+Timestamp: 5/31/2021 5:03:55 PM
+
+Message: Exporting Lists structure
+
+
+----------------------------------------
+----------------------------------------
+Timestamp: 5/31/2021 5:03:57 PM
+
+Message: Exported Lists structure
+
+
+----------------------------------------
+----------------------------------------
+Timestamp: 5/31/2021 5:03:57 PM
+
+Message: Exporting News structure
+
+
+----------------------------------------
+----------------------------------------
+Timestamp: 5/31/2021 5:03:59 PM
+
+Message: Exported News structure
+
+
+----------------------------------------
+----------------------------------------
+Timestamp: 5/31/2021 5:03:59 PM
+
+Message: Exporting Pages structure
+
+
+----------------------------------------
+----------------------------------------
+Timestamp: 5/31/2021 5:03:59 PM
+
+Message: Pages are up to date
+
+
+----------------------------------------
+----------------------------------------
+Timestamp: 5/31/2021 5:03:59 PM
+
+Message: Exporting User profiles structure
+
+
+----------------------------------------
+----------------------------------------
+Timestamp: 5/31/2021 5:04:00 PM
+
+Message: Exported User profiles structure
+
+
+----------------------------------------
+----------------------------------------
+Timestamp: 5/31/2021 5:04:00 PM
+
+Message: Exporting WebServices structure
+
+
+----------------------------------------
+----------------------------------------
+Timestamp: 5/31/2021 5:04:00 PM
+
+Message: Exported WebServices structure
+
+
+----------------------------------------
+----------------------------------------
+Timestamp: 5/31/2021 5:04:00 PM
+
+Message: Content export requested by system with the following settings: TypeName: Telerik.Sitefinity.Blogs.Model.Blog; ProviderName: []; Languages: []; ItemsFilterExpression: ; ItemsSortExpression: Id
+
+
+----------------------------------------
+----------------------------------------
+Timestamp: 5/31/2021 5:04:00 PM
+
+Message: Content export started.
+
+
+----------------------------------------
+----------------------------------------
+Timestamp: 5/31/2021 5:04:00 PM
+
+Message: Content export successfully completed for 0 items [0 succeeded, 0 failed].
+
+
+----------------------------------------
+----------------------------------------
+Timestamp: 5/31/2021 5:04:00 PM
+
+Message: Content export requested by system with the following settings: TypeName: Telerik.Sitefinity.Taxonomies.Model.Taxonomy; ProviderName: []; Languages: []; ItemsFilterExpression: ; ItemsSortExpression: Id
+
+
+----------------------------------------
+----------------------------------------
+Timestamp: 5/31/2021 5:04:00 PM
+
+Message: Content export started.
+
+
+----------------------------------------
+----------------------------------------
+Timestamp: 5/31/2021 5:04:01 PM
+
+Message: Content export successfully completed for 0 items [0 succeeded, 0 failed].
+
+
+----------------------------------------
+----------------------------------------
+Timestamp: 5/31/2021 5:04:01 PM
+
+Message: Content export requested by system with the following settings: TypeName: Telerik.Sitefinity.GenericContent.Model.ContentItem; ProviderName: []; Languages: []; ItemsFilterExpression: ; ItemsSortExpression: Id
+
+
+----------------------------------------
+----------------------------------------
+Timestamp: 5/31/2021 5:04:01 PM
+
+Message: Content export started.
+
+
+----------------------------------------
+----------------------------------------
+Timestamp: 5/31/2021 5:04:01 PM
+
+Message: Content export successfully completed for 0 items [0 succeeded, 0 failed].
+
+
+----------------------------------------
+----------------------------------------
+Timestamp: 5/31/2021 5:04:01 PM
+
+Message: Content export requested by system with the following settings: TypeName: Telerik.Sitefinity.Events.Model.Event; ProviderName: []; Languages: []; ItemsFilterExpression: ; ItemsSortExpression: Id
+
+
+----------------------------------------
+----------------------------------------
+Timestamp: 5/31/2021 5:04:01 PM
+
+Message: Content export started.
+
+
+----------------------------------------
+----------------------------------------
+Timestamp: 5/31/2021 5:04:01 PM
+
+Message: Content export successfully completed for 1 items [1 succeeded, 0 failed].
+
+
+----------------------------------------
+----------------------------------------
+Timestamp: 5/31/2021 5:04:01 PM
+
+Message: Content export requested by system with the following settings: TypeName: Telerik.Sitefinity.Forms.Model.FormDescription; ProviderName: []; Languages: []; ItemsFilterExpression: ; ItemsSortExpression: Id
+
+
+----------------------------------------
+----------------------------------------
+Timestamp: 5/31/2021 5:04:01 PM
+
+Message: Content export started.
+
+
+----------------------------------------
+----------------------------------------
+Timestamp: 5/31/2021 5:04:01 PM
+
+Message: Content export successfully completed for 1 items [1 succeeded, 0 failed].
+
+
+----------------------------------------
+----------------------------------------
+Timestamp: 5/31/2021 5:04:01 PM
+
+Message: Content export requested by system with the following settings: TypeName: Telerik.Sitefinity.Libraries.Model.Album; ProviderName: []; Languages: []; ItemsFilterExpression: ; ItemsSortExpression: Id
+
+
+----------------------------------------
+----------------------------------------
+Timestamp: 5/31/2021 5:04:01 PM
+
+Message: Content export started.
+
+
+----------------------------------------
+----------------------------------------
+Timestamp: 5/31/2021 5:04:01 PM
+
+Message: Content export successfully completed for 3 items [3 succeeded, 0 failed].
+
+
+----------------------------------------
+----------------------------------------
+Timestamp: 5/31/2021 5:04:01 PM
+
+Message: Content export requested by system with the following settings: TypeName: Telerik.Sitefinity.Libraries.Model.VideoLibrary; ProviderName: []; Languages: []; ItemsFilterExpression: ; ItemsSortExpression: Id
+
+
+----------------------------------------
+----------------------------------------
+Timestamp: 5/31/2021 5:04:01 PM
+
+Message: Content export started.
+
+
+----------------------------------------
+----------------------------------------
+Timestamp: 5/31/2021 5:04:01 PM
+
+Message: Content export successfully completed for 1 items [1 succeeded, 0 failed].
+
+
+----------------------------------------
+----------------------------------------
+Timestamp: 5/31/2021 5:04:01 PM
+
+Message: Content export requested by system with the following settings: TypeName: Telerik.Sitefinity.Libraries.Model.DocumentLibrary; ProviderName: []; Languages: []; ItemsFilterExpression: ; ItemsSortExpression: Id
+
+
+----------------------------------------
+----------------------------------------
+Timestamp: 5/31/2021 5:04:01 PM
+
+Message: Content export started.
+
+
+----------------------------------------
+----------------------------------------
+Timestamp: 5/31/2021 5:04:01 PM
+
+Message: Content export successfully completed for 1 items [1 succeeded, 0 failed].
+
+
+----------------------------------------
+----------------------------------------
+Timestamp: 5/31/2021 5:04:01 PM
+
+Message: Content export requested by system with the following settings: TypeName: Telerik.Sitefinity.Lists.Model.List; ProviderName: []; Languages: []; ItemsFilterExpression: ; ItemsSortExpression: Id
+
+
+----------------------------------------
+----------------------------------------
+Timestamp: 5/31/2021 5:04:01 PM
+
+Message: Content export started.
+
+
+----------------------------------------
+----------------------------------------
+Timestamp: 5/31/2021 5:04:01 PM
+
+Message: Content export successfully completed for 0 items [0 succeeded, 0 failed].
+
+
+----------------------------------------
+----------------------------------------
+Timestamp: 5/31/2021 5:04:01 PM
+
+Message: Content export requested by system with the following settings: TypeName: Telerik.Sitefinity.News.Model.NewsItem; ProviderName: []; Languages: []; ItemsFilterExpression: ; ItemsSortExpression: Id
+
+
+----------------------------------------
+----------------------------------------
+Timestamp: 5/31/2021 5:04:01 PM
+
+Message: Content export started.
+
+
+----------------------------------------
+----------------------------------------
+Timestamp: 5/31/2021 5:04:01 PM
+
+Message: Content export successfully completed for 0 items [0 succeeded, 0 failed].
+
+
+----------------------------------------
+----------------------------------------
+Timestamp: 5/31/2021 5:04:01 PM
+
+Message: Content export requested by system with the following settings: TypeName: Telerik.Sitefinity.Pages.Model.PageTemplate; ProviderName: []; Languages: []; ItemsFilterExpression: ; ItemsSortExpression: Id
+
+
+----------------------------------------
+----------------------------------------
+Timestamp: 5/31/2021 5:04:01 PM
+
+Message: Content export started.
+
+
+----------------------------------------
+----------------------------------------
+Timestamp: 5/31/2021 5:04:01 PM
+
+Message: Content export successfully completed for 0 items [0 succeeded, 0 failed].
+
+
+----------------------------------------
+----------------------------------------
+Timestamp: 5/31/2021 5:04:01 PM
+
+Message: Content export requested by system with the following settings: TypeName: Telerik.Sitefinity.Pages.Model.PageNode; ProviderName: []; Languages: []; ItemsFilterExpression: ; ItemsSortExpression: Id
+
+
+----------------------------------------
+----------------------------------------
+Timestamp: 5/31/2021 5:04:01 PM
+
+Message: Content export started.
+
+
+----------------------------------------
+----------------------------------------
+Timestamp: 5/31/2021 5:04:02 PM
+
+Message: Content export successfully completed for 3 items [3 succeeded, 0 failed].
+
+
+----------------------------------------
+----------------------------------------
+Timestamp: 5/31/2021 5:04:02 PM
+
+Message: Content export requested by system with the following settings: TypeName: Telerik.Sitefinity.DynamicTypes.Model.SuccessStory.SuccessStory; ProviderName: []; Languages: []; ItemsFilterExpression: ; ItemsSortExpression: Id
+
+
+----------------------------------------
+----------------------------------------
+Timestamp: 5/31/2021 5:04:02 PM
+
+Message: Content export started.
+
+
+----------------------------------------
+----------------------------------------
+Timestamp: 5/31/2021 5:04:02 PM
+
+Message: Content export successfully completed for 3 items [3 succeeded, 0 failed].
+
+
+----------------------------------------

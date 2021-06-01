@@ -1,0 +1,98 @@
+----------------------------------------
+Timestamp: 5/26/2021 11:42:07 AM
+
+Message: The component sf-components could not be resolved
+
+
+----------------------------------------
+----------------------------------------
+Timestamp: 5/26/2021 11:42:08 AM
+
+Message: The component sf-components could not be resolved
+
+
+----------------------------------------
+----------------------------------------
+Timestamp: 26.5.2021 г. 14:27:20
+
+Message: Notification service: Failed to send notification message for Account: ThisApplicationKey, Module: Forms, with messageJobId: '2ed9c9cd-81bf-44e1-8727-719258504d3b' Error: System.Net.Mail.SmtpException: Failure sending mail. ---> System.Net.WebException: Unable to connect to the remote server ---> System.Net.Sockets.SocketException: No connection could be made because the target machine actively refused it 127.0.0.1:26
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- End of inner exception stack trace ---
+   at System.Net.ServicePoint.GetConnection(PooledStream PooledStream, Object owner, Boolean async, IPAddress& address, Socket& abortSocket, Socket& abortSocket6)
+   at System.Net.PooledStream.Activate(Object owningObject, Boolean async, GeneralAsyncDelegate asyncCallback)
+   at System.Net.PooledStream.Activate(Object owningObject, GeneralAsyncDelegate asyncCallback)
+   at System.Net.ConnectionPool.GetConnection(Object owningObject, GeneralAsyncDelegate asyncCallback, Int32 creationTimeout)
+   at System.Net.Mail.SmtpConnection.GetConnection(ServicePoint servicePoint)
+   at System.Net.Mail.SmtpTransport.GetConnection(ServicePoint servicePoint)
+   at System.Net.Mail.SmtpClient.GetConnection()
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   --- End of inner exception stack trace ---
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at Telerik.Sitefinity.Services.Notifications.Smtp.SmtpSender.SendMessage(IMessageInfo messageInfo, ISubscriberRequest subscriber)
+
+
+----------------------------------------
+----------------------------------------
+Timestamp: 26.5.2021 г. 14:29:58
+
+Message: Notification service: Failed to send notification message for Account: ThisApplicationKey, Module: Forms, with messageJobId: '2175103a-8958-4b53-ab93-a7c315ffb2c0' Error: System.Net.Mail.SmtpException: Failure sending mail. ---> System.Net.WebException: Unable to connect to the remote server ---> System.Net.Sockets.SocketException: No connection could be made because the target machine actively refused it 127.0.0.1:26
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- End of inner exception stack trace ---
+   at System.Net.ServicePoint.GetConnection(PooledStream PooledStream, Object owner, Boolean async, IPAddress& address, Socket& abortSocket, Socket& abortSocket6)
+   at System.Net.PooledStream.Activate(Object owningObject, Boolean async, GeneralAsyncDelegate asyncCallback)
+   at System.Net.PooledStream.Activate(Object owningObject, GeneralAsyncDelegate asyncCallback)
+   at System.Net.ConnectionPool.GetConnection(Object owningObject, GeneralAsyncDelegate asyncCallback, Int32 creationTimeout)
+   at System.Net.Mail.SmtpConnection.GetConnection(ServicePoint servicePoint)
+   at System.Net.Mail.SmtpTransport.GetConnection(ServicePoint servicePoint)
+   at System.Net.Mail.SmtpClient.GetConnection()
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   --- End of inner exception stack trace ---
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at Telerik.Sitefinity.Services.Notifications.Smtp.SmtpSender.SendMessage(IMessageInfo messageInfo, ISubscriberRequest subscriber)
+
+
+----------------------------------------
+----------------------------------------
+Timestamp: 5/26/2021 3:41:06 PM
+
+Message: The component sf-components could not be resolved
+
+
+----------------------------------------
+----------------------------------------
+Timestamp: 5/26/2021 3:41:07 PM
+
+Message: The component sf-components could not be resolved
+
+
+----------------------------------------
+----------------------------------------
+Timestamp: 26.5.2021 г. 15:46:20
+
+Message: Notification service: Failed to send notification message for Account: ThisApplicationKey, Module: Forms, with messageJobId: '4b3a9b32-16f9-4964-9dd1-a091124976f1' Error: System.Net.Mail.SmtpException: Failure sending mail. ---> System.Net.WebException: Unable to connect to the remote server ---> System.Net.Sockets.SocketException: No connection could be made because the target machine actively refused it 127.0.0.1:26
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- End of inner exception stack trace ---
+   at System.Net.ServicePoint.GetConnection(PooledStream PooledStream, Object owner, Boolean async, IPAddress& address, Socket& abortSocket, Socket& abortSocket6)
+   at System.Net.PooledStream.Activate(Object owningObject, Boolean async, GeneralAsyncDelegate asyncCallback)
+   at System.Net.PooledStream.Activate(Object owningObject, GeneralAsyncDelegate asyncCallback)
+   at System.Net.ConnectionPool.GetConnection(Object owningObject, GeneralAsyncDelegate asyncCallback, Int32 creationTimeout)
+   at System.Net.Mail.SmtpConnection.GetConnection(ServicePoint servicePoint)
+   at System.Net.Mail.SmtpTransport.GetConnection(ServicePoint servicePoint)
+   at System.Net.Mail.SmtpClient.GetConnection()
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   --- End of inner exception stack trace ---
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at Telerik.Sitefinity.Services.Notifications.Smtp.SmtpSender.SendMessage(IMessageInfo messageInfo, ISubscriberRequest subscriber)
+
+
+----------------------------------------
+----------------------------------------
+Timestamp: 5/26/2021 5:11:07 PM
+
+Message: Scheduler: Task executed: 'Telerik.Sitefinity.ABTesting.Scheduling.ABTestsSyncTask'. Start time: 5/26/2021 5:11:06 PM. End time: 5/26/2021 5:11:07 PM. Task data: ''
+
+
+----------------------------------------

@@ -1,0 +1,88 @@
+----------------------------------------
+ActivityId: 2233f5b0-cde4-4659-9b03-999314fed2d2
+
+Timestamp: 5/31/2021 9:53:39 AM
+
+Message: IdentityServer signing certificate is not configured. System will be using default IdentityServer certificate
+
+Category: ErrorLog
+
+Priority: -1
+
+EventId: 1
+
+Severity: Information
+
+Title:
+
+Machine: DESKTOP-2V705S3
+
+App Domain: /LM/W3SVC/2/ROOT-1-132669283838513270
+
+ProcessId: 8224
+
+Process Name: C:\Program Files (x86)\IIS Express\iisexpress.exe
+
+Thread Name: 
+
+Win32 ThreadId:15096
+
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+ActivityId: 00000000-0000-0000-0000-000000000000
+
+Timestamp: 5/31/2021 9:55:35 AM
+
+Message: HandlingInstanceID: 01808681-8027-432e-9e8a-8f2f772d4c47
+An exception of type 'System.ArgumentException' occurred and was caught.
+------------------------------------------------------------------------
+05/31/2021 12:55:35
+Type : System.ArgumentException, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+Message : A sender profile 'DefaultSmtpProfile' of type 'smtp' is not found in the configuration
+Source : Telerik.Sitefinity.Services.Notifications.Impl
+Help link : 
+ParamName : 
+Data : System.Collections.ListDictionaryInternal
+TargetSite : Telerik.Sitefinity.Services.Notifications.Sender GetSender(System.String, System.String)
+HResult : -2147024809
+Stack Trace :    at Telerik.Sitefinity.Services.Notifications.Sender.GetSender(String profileType, String profileName)
+   at Telerik.Sitefinity.Services.Notifications.NotificationService.ValidateMessageJob(IMessageJobRequest messageJob, IMessageTemplateRequest messageTemplateRequest)
+   at Telerik.Sitefinity.Services.Notifications.NotificationService.PersistMessageJob(ServiceContext serviceContext, IMessageJobRequest messageJob, IDictionary`2 contextItems)
+   at Telerik.Sitefinity.Services.Notifications.NotificationService.SendMessage(ServiceContext context, IMessageJobRequest messageJob, IDictionary`2 contextItems)
+
+Additional Info:
+
+MachineName : DESKTOP-2V705S3
+TimeStamp : 5/31/2021 9:55:35 AM
+FullName : Telerik.Sitefinity.Utilities, Version=13.3.7600.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+AppDomainName : /LM/W3SVC/2/ROOT-1-132669283838513270
+ThreadIdentity : Anonymous
+WindowsIdentity : DESKTOP-2V705S3\Ivan
+Requested URL : http://localhost:60876/publish-a-story/CreateSuccessStory/
+
+
+Category: ErrorLog
+
+Priority: 0
+
+EventId: 90000
+
+Severity: Error
+
+Title:Enterprise Library Exception Handling
+
+Machine: DESKTOP-2V705S3
+
+App Domain: /LM/W3SVC/2/ROOT-1-132669283838513270
+
+ProcessId: 8224
+
+Process Name: C:\Program Files (x86)\IIS Express\iisexpress.exe
+
+Thread Name: 
+
+Win32 ThreadId:1612
+
+Extended Properties: 
+----------------------------------------

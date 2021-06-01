@@ -1,0 +1,31 @@
+----------------------------------------
+ActivityId: e3a31de0-5370-47e6-8d09-c8adaf6c228a
+
+Timestamp: 5/29/2021 9:37:33 AM
+
+Message: IdentityServer signing certificate is not configured. System will be using default IdentityServer certificate
+
+Category: ErrorLog
+
+Priority: -1
+
+EventId: 1
+
+Severity: Information
+
+Title:
+
+Machine: DESKTOP-2V705S3
+
+App Domain: /LM/W3SVC/1/ROOT-11-132667545858458098
+
+ProcessId: 18920
+
+Process Name: C:\Program Files (x86)\IIS Express\IISExpress.exe
+
+Thread Name: 
+
+Win32 ThreadId:16124
+
+Extended Properties: 
+----------------------------------------
